@@ -27,6 +27,7 @@ a) Create a user named `student`.
 
 b) Login from student user then create files and folders according to following tree structure.  
 (Where, d → directory and f → file)
+
 <img width="638" height="337" alt="image" src="https://github.com/user-attachments/assets/556a1b45-2431-4bd7-90a4-5eb2c51f6db1" />
 
 
@@ -43,6 +44,7 @@ e) Change permission of directory `d3` such that all categories of users will ge
 ### User and Group Administration:
 
 Task below are based on following structure
+
 <img width="771" height="299" alt="image" src="https://github.com/user-attachments/assets/7ee51213-51d3-4cac-a8c5-9b8f3f18b11b" />
 
 
