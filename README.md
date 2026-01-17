@@ -28,8 +28,7 @@ a) Create a user named `student`.
 b) Login from student user then create files and folders according to following tree structure.  
 (Where, d → directory and f → file)
 
-<img width="638" height="337" alt="image" src="https://github.com/user-attachments/assets/556a1b45-2431-4bd7-90a4-5eb2c51f6db1" />
-
+![Student Directory Structure](images/student.png)
 
 c) Change the permission of the file `f1` so that the owner will get full permission, group member will get read and execute permission and others will get read-only permissions.
 
@@ -45,8 +44,7 @@ e) Change permission of directory `d3` such that all categories of users will ge
 
 Task below are based on following structure
 
-<img width="771" height="299" alt="image" src="https://github.com/user-attachments/assets/7ee51213-51d3-4cac-a8c5-9b8f3f18b11b" />
-
+![Organization Structure](images/boss.png)
 
 a) Create group for each department (**production, marketing, sales**)
 
@@ -59,8 +57,6 @@ d) Change ownership of group directories such that **boss** will become the owne
 e) Change the permission of the group directories such that only the owner and group member will get full permission and other will not get any permission.
 
 ---
-
-
 
 ## TASK 12
 
@@ -146,4 +142,3 @@ e) Configure web server to listen from port 443 and set DocumentRoot to
 `/var/www/html`, locate the required key and cert files.
 
 f) Host a web page called `index.html` on web server named `<yourname>.infosec.local`
-
